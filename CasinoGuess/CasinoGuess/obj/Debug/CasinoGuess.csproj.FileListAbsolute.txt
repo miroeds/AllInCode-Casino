@@ -1,0 +1,18 @@
+C:\Users\ilasa\Desktop\практички 05.01 готовые\05.01 П-р 8\CasinoGuess\CasinoGuess\bin\Debug\CasinoGuess.exe.config
+C:\Users\ilasa\Desktop\практички 05.01 готовые\05.01 П-р 8\CasinoGuess\CasinoGuess\bin\Debug\CasinoGuess.exe
+C:\Users\ilasa\Desktop\практички 05.01 готовые\05.01 П-р 8\CasinoGuess\CasinoGuess\bin\Debug\CasinoGuess.pdb
+C:\Users\ilasa\Desktop\практички 05.01 готовые\05.01 П-р 8\CasinoGuess\CasinoGuess\obj\Debug\CasinoGuess.csproj.AssemblyReference.cache
+C:\Users\ilasa\Desktop\практички 05.01 готовые\05.01 П-р 8\CasinoGuess\CasinoGuess\obj\Debug\CasinoGuess.Properties.Resources.resources
+C:\Users\ilasa\Desktop\практички 05.01 готовые\05.01 П-р 8\CasinoGuess\CasinoGuess\obj\Debug\CasinoGuess.csproj.GenerateResource.cache
+C:\Users\ilasa\Desktop\практички 05.01 готовые\05.01 П-р 8\CasinoGuess\CasinoGuess\obj\Debug\CasinoGuess.csproj.CoreCompileInputs.cache
+C:\Users\ilasa\Desktop\практички 05.01 готовые\05.01 П-р 8\CasinoGuess\CasinoGuess\obj\Debug\CasinoGuess.exe
+C:\Users\ilasa\Desktop\практички 05.01 готовые\05.01 П-р 8\CasinoGuess\CasinoGuess\obj\Debug\CasinoGuess.pdb
+C:\Users\ilasa\Desktop\Командная работа\CasinoGuess\CasinoGuess\bin\Debug\CasinoGuess.exe.config
+C:\Users\ilasa\Desktop\Командная работа\CasinoGuess\CasinoGuess\bin\Debug\CasinoGuess.exe
+C:\Users\ilasa\Desktop\Командная работа\CasinoGuess\CasinoGuess\bin\Debug\CasinoGuess.pdb
+C:\Users\ilasa\Desktop\Командная работа\CasinoGuess\CasinoGuess\obj\Debug\CasinoGuess.csproj.AssemblyReference.cache
+C:\Users\ilasa\Desktop\Командная работа\CasinoGuess\CasinoGuess\obj\Debug\CasinoGuess.Properties.Resources.resources
+C:\Users\ilasa\Desktop\Командная работа\CasinoGuess\CasinoGuess\obj\Debug\CasinoGuess.csproj.GenerateResource.cache
+C:\Users\ilasa\Desktop\Командная работа\CasinoGuess\CasinoGuess\obj\Debug\CasinoGuess.csproj.CoreCompileInputs.cache
+C:\Users\ilasa\Desktop\Командная работа\CasinoGuess\CasinoGuess\obj\Debug\CasinoGuess.exe
+C:\Users\ilasa\Desktop\Командная работа\CasinoGuess\CasinoGuess\obj\Debug\CasinoGuess.pdb
